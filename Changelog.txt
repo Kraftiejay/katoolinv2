@@ -20,12 +20,12 @@ Katoolin V2.0
 
 I will be modifying the menu as I can to keep up with what tools can and can't be installed.
 
-Modified menu to no longer include tools that could not be installed.
+Tools Removed : 
 
 11 - Password Attacks
-Tools: Multiforcer
+Multiforcer
 
-12 -
+12 - Reverse Engineering
 
 Distorm (python-distorm3)
 JD
@@ -34,4 +34,4 @@ Valgrind
 YARA
 
 TODO:
-Modify the numbers of the tools so that a number is not skipped or missing (For neatness sakes) 
+Modify the numbers of the tools so that a number is not skipped or missing (For neatness sake) 
