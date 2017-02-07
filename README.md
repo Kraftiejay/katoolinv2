@@ -8,7 +8,7 @@ A Python Script to Install Kali Linux Tools on Debain Derived Linux Distros
 
 # Requirements
 - Python 2.7
-- An operating system (tested on Ubuntu,Debian)
+- An operating system (tested on Ubuntu,Lubuntu,Debian)
 
 # Installation
 - sudo su

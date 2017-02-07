@@ -35,3 +35,8 @@ YARA
 
 TODO:
 Modify the numbers of the tools so that a number is not skipped or missing (For neatness sake) 
+
+---------------------------------------------07 / 02 / 2017----------------------------------------------------
+
+Number of tools in start of script has been revised to show that 325 tools are now available instead of 331.
+Modified numbers assigned to tools as to not confuse the reader by skipping numbers of previously removed tools.

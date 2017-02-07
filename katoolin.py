@@ -19,7 +19,7 @@ def main():
 
  \033[1;32m+ -- -- +=[ Original Author: LionSec | Homepage: www.lionsec.net\033[1;m
  \033[1;32m+ -- -- +=[ V 2.0 Mods: nullr00t | Homepage: https://github.com/nullr00t\033[1;m
- \033[1;32m+ -- -- +=[ 331 Tools \033[1;m
+ \033[1;32m+ -- -- +=[ 325 Tools \033[1;m
 
 
 \033[1;91m[W] Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .\033[1;m
@@ -1068,23 +1068,23 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 \033[1;36m=+[ Password Attacks\033[1;m
 
  1) acccheck				19) Maskprocessor
- 2) Burp Suite	
- 3) CeWL				21) Ncrack
- 4) chntpw				22) oclgausscrack
- 5) cisco-auditing-tool			23) PACK
- 6) CmosPwd				24) patator
- 7) creddump				25) phrasendrescher
- 8) crunch				26) polenum
- 9) DBPwAudit				27) RainbowCrack
-10) findmyhash				28) rcracki-mt
-11) gpp-decrypt				29) RSMangler
-12) hash-identifier			30) SQLdict
-13) HexorBase				31) Statsprocessor
-14) THC-Hydra				32) THC-pptp-bruter
-15) John the Ripper			33) TrueCrack
-16) Johnny				34) WebScarab 
-17) keimpx				35) wordlists 
-18) Maltego Teeth			36) zaproxy 
+ 2) Burp Suite	            20) Ncrack
+ 3) CeWL				    21) oclgausscrack
+ 4) chntpw				    22) PACK
+ 5) cisco-auditing-tool	    23) patator
+ 6) CmosPwd				    24) phrasendrescher
+ 7) creddump				25) polenum
+ 8) crunch				    26) RainbowCrack
+ 9) DBPwAudit				27) rcracki-mt
+10) findmyhash				28) RSMangler
+11) gpp-decrypt				29) SQLdict
+12) hash-identifier			30) Statsprocessor
+13) HexorBase				31) THC-pptp-bruter
+14) THC-Hydra				32) TrueCrack
+15) John the Ripper			33) WebScarab 
+16) Johnny				    34) wordlists 
+17) keimpx				    35) zaproxy
+18) Maltego Teeth
 
 0) Install all Password Attacks tools
 				 
@@ -1131,37 +1131,37 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 								cmd = os.system("apt-get install maltego-teeth")
 							elif opcion2 == "19":
 								cmd = os.system("apt-get install maskprocessor")
-							elif opcion2 == "21":
+							elif opcion2 == "20":
 								cmd = os.system("apt-get install ncrack")
-							elif opcion2 == "22":
+							elif opcion2 == "21":
 								cmd = os.system("apt-get install oclgausscrack")
-							elif opcion2 == "23":
+							elif opcion2 == "22":
 								cmd = os.system("apt-get install pack")
-							elif opcion2 == "24":
+							elif opcion2 == "23":
 								cmd = os.system("apt-get install patator")
-							elif opcion2 == "25":
+							elif opcion2 == "24":
 								cmd = os.system("echo 'please visit : http://www.leidecker.info/projects/phrasendrescher/index.shtml' ")
-							elif opcion2 == "26":
+							elif opcion2 == "25":
 								cmd = os.system("apt-get install polenum")
-							elif opcion2 == "27":
+							elif opcion2 == "26":
 								cmd = os.system("apt-get install rainbowcrack")
-							elif opcion2 == "28":
+							elif opcion2 == "27":
 								cmd = os.system("apt-get install rcracki-mt")
-							elif opcion2 == "29":
+							elif opcion2 == "28":
 								cmd = os.system("apt-get install rsmangler")
-							elif opcion2 == "30":
+							elif opcion2 == "29":
 								print ("Sqldict is unavailable")
-							elif opcion2 == "31":
+							elif opcion2 == "30":
 								cmd = os.system("apt-get install statsprocessor")
-							elif opcion2 == "32":
+							elif opcion2 == "31":
 								cmd = os.system("apt-get install thc-pptp-bruter")
-							elif opcion2 == "33":
+							elif opcion2 == "32":
 								cmd = os.system("apt-get install truecrack")
-							elif opcion2 == "34":
+							elif opcion2 == "33":
 								cmd = os.system("apt-get install webscarab")
-							elif opcion2 == "35":
+							elif opcion2 == "34":
 								cmd = os.system("apt-get install wordlists")
-							elif opcion2 == "36":
+							elif opcion2 == "35":
 								cmd = os.system("apt-get install zaproxy")
 							elif opcion2 == "back":
 								inicio()
@@ -1177,10 +1177,10 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 
  1) apktool
  2) dex2jar
- 4) edb-debugger
- 5) jad	
- 6) javasnoop
- 9) smali
+ 3) edb-debugger
+ 4) jad	
+ 5) javasnoop
+ 6) smali
 
 0) Install all Reverse Engineering tools
 				 
@@ -1192,13 +1192,13 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 
 							elif opcion2 == "2":
 								cmd = os.system("apt-get install dex2jar")
-							elif opcion2 == "4":
+							elif opcion2 == "3":
 								cmd = os.system("apt-get install edb-debugger")
-							elif opcion2 == "5":
+							elif opcion2 == "4":
 								cmd = os.system("apt-get install jad")
-							elif opcion2 == "6":
+							elif opcion2 == "5":
 								cmd = os.system("apt-get install javasnoop")
-							elif opcion2 == "9":
+							elif opcion2 == "6":
 								cmd = os.system("apt-get install smali")
 							elif opcion2 == "back":
 								inicio()
