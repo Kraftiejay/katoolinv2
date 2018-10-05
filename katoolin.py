@@ -118,11 +118,11 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 
 1) Information Gathering			8) Exploitation Tools
 2) Vulnerability Analysis			9) Forensics Tools
-3) Wireless Attacks				10) Stress Testing
-4) Web Applications				11) Password Attacks
+3) Wireless Attacks					10) Stress Testing
+4) Web Applications					11) Password Attacks
 5) Sniffing & Spoofing				12) Reverse Engineering
 6) Maintaining Access				13) Hardware Hacking
-7) Reporting Tools 				14) Extra
+7) Reporting Tools 					14) Extra
 									
 0) All
 
@@ -142,27 +142,27 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 
  1) acccheck					30) lbd
  2) ace-voip					31) Maltego Teeth
- 3) Amap					32) masscan
+ 3) Amap						32) masscan
  4) Automater					33) Metagoofil
  5) bing-ip2hosts				34) Miranda
- 6) braa					35) Nmap
+ 6) braa						35) Nmap
  7) CaseFile					36) ntop
  8) CDPSnarf					37) p0f
  9) cisco-torch					38) Parsero
 10) Cookie Cadger				39) Recon-ng
-11) copy-router-config				40) SET
-12) DMitry					41) smtp-user-enum
-13) dnmap					42) snmpcheck
-14) dnsenum					43) sslcaudit
-15) dnsmap					44) SSLsplit
+11) copy-router-config			40) SET
+12) DMitry						41) smtp-user-enum
+13) dnmap						42) snmpcheck
+14) dnsenum						43) sslcaudit
+15) dnsmap						44) SSLsplit
 16) DNSRecon					45) sslstrip
 17) dnstracer					46) SSLyze
-18) dnswalk					47) THC-IPV6
+18) dnswalk						47) THC-IPV6
 19) DotDotPwn					48) theHarvester
 20) enum4linux					49) TLSSLed
-21) enumIAX					50) twofi
+21) enumIAX						50) twofi
 22) exploitdb					51) URLCrazy
-23) Fierce					52) Wireshark
+23) Fierce						52) Wireshark
 24) Firewalk					53) WOL-E
 25) fragroute					54) Xplico
 26) fragrouter					55) iSMTP
@@ -306,24 +306,24 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							print ('''
 \033[1;36m=+[ Vulnerability Analysis\033[1;m
 
- 1) BBQSQL				18) Nmap
- 2) BED					19)ohrwurm
- 3) cisco-auditing-tool			20) openvas-administrator
- 4) cisco-global-exploiter		21) openvas-cli
- 5) cisco-ocs				22) openvas-manager
- 6) cisco-torch				23) openvas-scanner
- 7) copy-router-config			24) Oscanner
- 8) commix				25) Powerfuzzer
- 9) DBPwAudit				26) sfuzz
-10) DoonaDot				27) SidGuesser
-11) DotPwn				28) SIPArmyKnife
+ 1) BBQSQL							18) Nmap
+ 2) BED								19)ohrwurm
+ 3) cisco-auditing-tool				20) openvas-administrator
+ 4) cisco-global-exploiter			21) openvas-cli
+ 5) cisco-ocs						22) openvas-manager
+ 6) cisco-torch						23) openvas-scanner
+ 7) copy-router-config				24) Oscanner
+ 8) commix							25) Powerfuzzer
+ 9) DBPwAudit						26) sfuzz
+10) DoonaDot						27) SidGuesser
+11) DotPwn							28) SIPArmyKnife
 12) Greenbone Security Assistant 	29) sqlmap
-13) GSD					30) Sqlninja
-14) HexorBase				31) sqlsus
-15) Inguma				32) THC-IPV6
-16) jSQL				33) tnscmd10g
-17) Lynis				34) unix-privesc-check
-					35) Yersinia
+13) GSD								30) Sqlninja
+14) HexorBase						31) sqlsus
+15) Inguma							32) THC-IPV6
+16) jSQL							33) tnscmd10g
+17) Lynis							34) unix-privesc-check
+					    			35) Yersinia
 
 0) Install all Vulnerability Analysis tools
 				 
@@ -416,20 +416,20 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 		\033[1;36m=+[ Wireless Attacks\033[1;m
 
  1) Aircrack-ng				17) kalibrate-rtl
- 2) Asleap				18) KillerBee
- 3) Bluelog				19) Kismet
+ 2) Asleap				    18) KillerBee
+ 3) Bluelog				    19) Kismet
  4) BlueMaho				20) mdk3
- 5) Bluepot				21) mfcuk
+ 5) Bluepot				    21) mfcuk
  6) BlueRanger				22) mfoc
  7) Bluesnarfer				23) mfterm
- 8) Bully				24) Multimon-NG
+ 8) Bully				    24) Multimon-NG
  9) coWPAtty				25) PixieWPS
-10) crackle				26) Reaver
+10) crackle				    26) Reaver
 11) eapmd5pass				27) redfang
-12) Fern Wifi Cracker			28) RTLSDR Scanner
+12) Fern Wifi Cracker		28) RTLSDR Scanner
 13) Ghost Phisher			29) Spooftooph
-14) GISKismet				30) Wifi Honey				31) Wifitap
-16) gr-scan				32) Wifite 
+14) GISKismet				30) Wifi Honey				32) Wifite
+16) gr-scan				    31) Wifitap 
 
 0) Install all Wireless Attacks tools
 				 
@@ -635,18 +635,18 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 \033[1;36m=+[ Sniffing & Spoofing\033[1;m
 
  1) Burp Suite				17) rtpmixsound
- 2) DNSChef				18) sctpscan
- 3) fiked				19) SIPArmyKnife
- 4) hamster-sidejack			20) SIPp
+ 2) DNSChef				    18) sctpscan
+ 3) fiked				    19) SIPArmyKnife
+ 4) hamster-sidejack		20) SIPp
  5) HexInject				21) SIPVicious
  6) iaxflood				22) SniffJoke
  7) inviteflood				23) SSLsplit
- 8) iSMTP				24) sslstrip
+ 8) iSMTP				    24) sslstrip
  9) isr-evilgrade			25) THC-IPV6
 10) mitmproxy				26) VoIPHopper
-11) ohrwurm				27) WebScarab
+11) ohrwurm				    27) WebScarab
 12) protos-sip				28) Wifi Honey
-13) rebind				29) Wireshark
+13) rebind				    29) Wireshark
 14) responder				30) xspy
 15) rtpbreak				31) Yersinia
 16) rtpinsertsound			32) zaproxy 
@@ -745,7 +745,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
  6) Intersect
  7) Nishang
  8) polenum
-9) PowerSploit
+ 9) PowerSploit
 10) pwnat
 11) RidEnum
 12) sbd
@@ -919,19 +919,18 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							print ('''
 \033[1;36m=+[ Forensics Tools\033[1;m
 
- 1) Binwalk				11) extundelete
+ 1) Binwalk					11) extundelete
  2) bulk-extractor			12) Foremost
  3) Capstone				13) Galleta
- 4) chntpw				14) Guymager
- 5) Cuckoo				15) iPhone Backup Analyzer
- 6) dc3dd				16) p0f
+ 4) chntpw					14) Guymager
+ 5) Cuckoo					15) iPhone Backup Analyzer
+ 6) dc3dd					16) p0f
  7) ddrescue				17) pdf-parser
- 8) DFF					18) pdfid
-         				19) pdgmail
-10) Dumpzilla				20) peepdf
-					21) RegRipper
-					22) Volatility
-					23) Xplico
+ 8) DFF						18) pdfid      
+ 9) Dumpzilla				19) peepdf
+10) pdgmail					20) RegRipper
+			 				21) Volatility
+							22) Xplico
 
 0) Install all Forensics Tools
 				 
@@ -956,7 +955,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 								cmd = os.system("apt-get install ddrescue")
 							elif opcion2 == "8":
 								print ('dff is unavailable')
-							elif opcion2 == "10":
+							elif opcion2 == "9":
 								cmd = os.system("apt-get install dumpzilla")
 							elif opcion2 == "11":
 								cmd = os.system("apt-get install extundelete")
@@ -974,15 +973,15 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 								cmd = os.system("apt-get install pdf-parser")
 							elif opcion2 == "18":
 								cmd = os.system("apt-get install pdfid")
-							elif opcion2 == "19":
+							elif opcion2 == "10":
 								cmd = os.system("apt-get install pdgmail")
-							elif opcion2 == "20":
+							elif opcion2 == "19":
 								cmd = os.system("apt-get install peepdf")
-							elif opcion2 == "21":
+							elif opcion2 == "20":
 								print ("Regripper is unavailable")
-							elif opcion2 == "22":
+							elif opcion2 == "21":
 								cmd = os.system("apt-get install volatility")
-							elif opcion2 == "23":
+							elif opcion2 == "22":
 								cmd = os.system("apt-get install xplico")
 							elif opcion2 == "back":
 								inicio()
