@@ -1,12 +1,12 @@
----------------------------------------------26 / 08 / 2015----------------------------------------------------
+-------------------------------------------- 26 / 08 / 2015 ---------------------------------------------------
 
 The problem of uppercases characters in the installation script has been solved .
 
----------------------------------------------19 / 04 / 2016----------------------------------------------------
+-------------------------------------------- 19 / 04 / 2016 ---------------------------------------------------
 
 Removed Inguma from the menu to bypass issue with installation (By Jayson Grace : https://github.com/l50)
 
----------------------------------------------27 / 08 / 2016----------------------------------------------------
+-------------------------------------------- 27 / 08 / 2016 ---------------------------------------------------
 Katoolin v1.1
 fixed : Dependencies error for webshag and regripper , sqldic , ntop.
 fixed : #27
@@ -14,7 +14,7 @@ fixed : #28
 fixed : #21
 fixed : #9
 
----------------------------------------------04 / 02 / 2017----------------------------------------------------
+-------------------------------------------- 04 / 02 / 2017 ---------------------------------------------------
 Katoolin V2.0
 (by nullr00t)
 
@@ -40,3 +40,9 @@ Modify the numbers of the tools so that a number is not skipped or missing (For 
 
 Number of tools in start of script has been revised to show that 325 tools are now available instead of 331.
 Modified numbers assigned to tools as to not confuse the reader by skipping numbers of previously removed tools.
+
+----------------------------------------- 05 / 10 / 2018 -------------------------------------------------------
+
+Multiple changes have been made to reflect the availability of tools that are offered through the kali rolling 
+repos as well as making the code of the script more human readable in a text editor. Correction of numbers on
+the tools as well as attempts at making it easier to navigate have been done.
